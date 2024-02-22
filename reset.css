@@ -1,0 +1,47 @@
+.card1 {
+    border: 2px solid;
+    border-radius: 10px;
+    width: 200px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+    
+
+
+}
+
+.card2 {
+    border: 2px solid;
+    width: 200px;
+    border-radius: 10px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card3 {
+    border: 2px solid;
+    width: 200px;
+    border-radius: 10px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button {
+    color: white;
+    background-color: chocolate;
+    border-radius: 5px;
+    height: 30px;
+    width: 100px;
+    border: none;
+    
